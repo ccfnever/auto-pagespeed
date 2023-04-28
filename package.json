@@ -1,0 +1,16 @@
+{
+  "name": "auto-pagespeed",
+  "version": "1.0.0",
+  "description": "配置化测试网站的速度",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ccfnever",
+  "license": "ISC",
+  "dependencies": {
+    "node-xlsx": "^0.21.2",
+    "psi": "^4.1.0"
+  }
+}
